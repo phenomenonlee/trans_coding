@@ -1,0 +1,5 @@
+## 폴더무시
+node_modules/
+
+## 파일 무시
+package-lock.json
